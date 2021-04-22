@@ -1,0 +1,19 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+.symbol {
+  color: red;
+}
+
+#ObsForm {
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.ObsInp {
+  margin: 10px;
+}
+
+.ObsTxt {
+  margin-left: 10px;
+}
